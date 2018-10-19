@@ -1,0 +1,8 @@
+.ui.borderless.topmenu.menu {
+  background-color: rgba(21, 71, 148, 0.8);
+}
+
+.sd-background {
+  background: url("https://stardewvalley.net/wp-content/uploads/2017/12/stardewbackground.png") no-repeat fixed center center / cover;
+  height: 695px;
+}
